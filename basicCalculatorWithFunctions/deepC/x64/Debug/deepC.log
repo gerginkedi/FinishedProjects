@@ -1,0 +1,3 @@
+﻿  src.c
+C:\Users\segad\source\repos\deepC\deepC\src.c(31,1): warning C4715: 'calculator': not all control paths return a value
+  deepC.vcxproj -> C:\Users\segad\source\repos\deepC\x64\Debug\deepC.exe
