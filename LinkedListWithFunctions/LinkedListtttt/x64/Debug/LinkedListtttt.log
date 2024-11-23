@@ -1,0 +1,4 @@
+﻿  src.c
+C:\Users\segad\source\repos\LinkedListtttt\LinkedListtttt\src.c(101,8): warning C4101: 'voy': unreferenced local variable
+C:\Users\segad\source\repos\LinkedListtttt\LinkedListtttt\src.c(69,1): warning C4715: 'add': not all control paths return a value
+  LinkedListtttt.vcxproj -> C:\Users\segad\source\repos\LinkedListtttt\x64\Debug\LinkedListtttt.exe
