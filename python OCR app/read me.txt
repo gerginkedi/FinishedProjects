@@ -1,0 +1,1 @@
+open terminal in where the "main.py" exist then write python/py main.py
